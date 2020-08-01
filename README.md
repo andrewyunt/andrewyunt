@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 <!--
 **andrewyunt/andrewyunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Andrew Yunt and I'm a student studying Computer Science at Iowa State University.
+
+🚢 I grew up on Bainbridge, a small island which is a half-hour ferry ride west of Seattle.
+🌱 I'm currently learning about cloud platforms such as Amazon Web Services and Azure in my free time. I'm obsessed with cloud and blockchain technologies and try to learn about and use them as much as possible.
+🔭 I have been working on a food delivery app and will be doing some smaller projects at Hackathons this fall.
+💬 Add me on LinkedIn or email me if you are interested in discussing new project ideas or just want to talk about interesting tools or technologies. I'm always interested in collaborating on something new and exciting!
